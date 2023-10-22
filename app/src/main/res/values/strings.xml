@@ -1,0 +1,17 @@
+
+<resources>
+<string name="app_name">Controle de Patrimonio</string>
+<string name="objeto">Aluno</string>
+<string name="tipo">Curso</string>
+<string name="cadastro">Cadastre-se</string>
+<string name="visualizar">Visualize os objetos</string>
+<string name="visualize_cursos">Vizualize os tipos disponíveis</string>
+<string name="home">Voltar</string>
+<string name="nome">Nome completo</string>
+<string name="telefone">Telefone</string>
+<string name="email">E-mail</string>
+<string name="nome_curso">Nome do Curso</string>
+<string name="qtd_horas">Carga Horária do Curso</string>
+<string name="salva">Salvar</string>
+<string name="exclui">Excluir</string>
+</resources>
